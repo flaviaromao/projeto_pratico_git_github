@@ -1,1 +1,2 @@
 Hello, word. Git inicializado.
+Nova linha adicionada.

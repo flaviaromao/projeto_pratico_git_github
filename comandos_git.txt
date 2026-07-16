@@ -1,0 +1,6 @@
+git init (para inicializar o git)
+git status (para verificar o status do repositório e dos arquivos alocados nele)
+git add "nome_arquivo.txt" (exemplo de como adicionar um arquivo no controle de versões)
+git add . (para adicionar todos os arquivos do repositório no controle de versão)
+git commit -m "Descreve-se sobre a versão (o que mudou, do que se trata, etc...)"
+git remote add origin url_do_repositorio (para definir para qual repositório do GitHub os arquivos serão enviados com o comando push)
