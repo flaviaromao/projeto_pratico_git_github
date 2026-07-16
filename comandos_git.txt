@@ -16,3 +16,5 @@ git merge nome_branch (para trazer um arquivo de uma branch para outra. Por exem
 git pull (para atualizar na máquina os arquivos mais recentes que estão na nuvem)
 
 git checkout -b nome_nova_branch nome_branch_base (para criar uma branch utilizando como base uma existente)
+
+touch .gitignore (para criar um arquivo que será utilizado para selecionar determinados arquivos que devem ser ignorados, e evitar envia-los para a nuvem)
