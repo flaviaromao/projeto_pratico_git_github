@@ -11,3 +11,8 @@ git reset --hard id_da_versão (para voltar para determinada versão em caso de 
 git branch (para verificar as branchs disponíveis)
 git branch nome_branch (para criar uma nova branch)
 git checkout nome_branch (para alterar de branch)
+git merge nome_branch (para trazer um arquivo de uma branch para outra. Por exemplo, nome_branch seria o nome da branch de dev, e devemos rodar este código na branch principal)
+
+git pull (para atualizar na máquina os arquivos mais recentes que estão na nuvem)
+
+git checkout -b nome_nova_branch nome_branch_base (para criar uma branch utilizando como base uma existente)
