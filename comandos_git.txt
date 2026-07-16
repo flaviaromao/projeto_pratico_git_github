@@ -4,3 +4,10 @@ git add "nome_arquivo.txt" (exemplo de como adicionar um arquivo no controle de 
 git add . (para adicionar todos os arquivos do repositório no controle de versão)
 git commit -m "Descreve-se sobre a versão (o que mudou, do que se trata, etc...)"
 git remote add origin url_do_repositorio (para definir para qual repositório do GitHub os arquivos serão enviados com o comando push)
+git push (para enviar os arquivos para o repositório no GitHub)
+git reflog (para verificar o log de versões)
+git reset --hard id_da_versão (para voltar para determinada versão em caso de erro)
+
+git branch (para verificar as branchs disponíveis)
+git branch nome_branch (para criar uma nova branch)
+git checkout nome_branch (para alterar de branch)
